@@ -3,7 +3,7 @@
 
 |Name | Website
 |  ----  | ----
-|基于场景异常智能检测的AI边缘设备的软件系统| https://github.com/being12345/Resume/tree/main/patents
+|基于场景异常智能检测的AI边缘设备的软件系统| ./patents
 |火烟报警AI边缘设备软件|https://github.com/being12345/Resume/tree/main/patents
 |目标检测|https://github.com/being12345/Resume/tree/main/patents
 
